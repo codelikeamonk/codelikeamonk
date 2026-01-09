@@ -3,8 +3,8 @@
 🎓 **M.S. in Computer Science**, University of Southern California  
 🎓 **B.Tech in Computer Engineering**
 
-📫 **Email:** jcjain@usc.edu | 📞 +1 213-681-4102  
-🌐 **LinkedIn:** [https://www.linkedin.com/in/jash-jain-318500216/) | **GitHub:** [https://github.com/codelikeamonk)  
+📫 **Email:** jcjain@usc.edu 
+🌐 **LinkedIn:** [https://www.linkedin.com/in/jash-jain-318500216/)
 
 ---
 
@@ -12,7 +12,7 @@
 I'm a **software engineer and AI/ML specialist** passionate about building **intelligent, production-grade systems** that leverage **RAG architectures, LLMs, and cloud infrastructure**.  
 My work spans **AI engineering, MLOps, and full-stack development**, from architecting retrieval-augmented generation pipelines to deploying scalable microservices on cloud platforms.  
 
-I thrive in environments where I can design, optimize, and deploy — transforming AI research into real-world applications that drive business value.  
+I thrive in environments where I can design, optimize, and deploy - transforming AI research into real-world applications that drive business value.  
 
 ---
 
@@ -68,7 +68,7 @@ I thrive in environments where I can design, optimize, and deploy — transformi
 ---
 
 ## 📈 Additional Interests  
-💹 Trading 🏏 Cricket ⚽ Soccer 🎮 Gaming  
+💹 Trading 🏏 Cricket  
 - Building **AI agents & RAG systems** using LangChain and LlamaIndex  
 - Exploring **LLM fine-tuning and prompt engineering**  
 - Interested in **autonomous workflows** and **edge AI deployment**  
