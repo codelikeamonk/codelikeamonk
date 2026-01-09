@@ -1,7 +1,6 @@
 # Jash Jain
 
 🎓 **M.S. in Computer Science**, University of Southern California  
-🎓 **B.Tech in Computer Engineering**
 
 📫 **Email:** jcjain@usc.edu 
 🌐 **LinkedIn:** [https://www.linkedin.com/in/jash-jain-318500216/)
